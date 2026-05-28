@@ -1,0 +1,6 @@
+feedparser>=6.0
+openai>=1.0
+python-dotenv>=1.0
+customtkinter>=5.0
+Pillow>=9.0
+pystray>=0.19

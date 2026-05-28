@@ -1,0 +1,22 @@
+# 敏感配置
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行时数据
+.prefs.json
+.run_log.json
+
+# 本地微信RSS数据
+we-mp-rss-data/
+
+# 优化版本（已合并）
+optimized/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+.workbuddy
